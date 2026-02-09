@@ -1,4 +1,3 @@
-discord.py
 import discord
 
 TOKEN = "MTQ2Mjc3NzQzMDI3NTI2NDY1NQ.GxYgRE.Xf-CIMvrhrIKxPF3xMtISG5g8sUYTDOWEN0nnc"
